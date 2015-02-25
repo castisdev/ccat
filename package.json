@@ -1,0 +1,11 @@
+{
+  "name": "ccat",
+  "version": "0.1.0",
+  "description": "colorized `cat` for castis log files",
+  "bin": {
+    "ccat": "./ccat.py"
+  },
+  "service": null,
+  "dependencies": null
+}
+
